@@ -1,4 +1,3 @@
-![Minecraft Iron Golem](https://www.microsoft.com/en-us/research/uploads/prod/2018/07/MicrosoftResearch_Malmo_Header_07_18_1000x400.png)
 I am a web developer, a front end software developer as well as a tech enthusiast.
 
 - 👋 Hi, I’m @alexalmacin
