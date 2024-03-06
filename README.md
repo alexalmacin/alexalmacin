@@ -7,6 +7,7 @@ I am a web developer, a front end software developer as well as a tech enthusias
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a broken sense of humour
 
+Connect with me 🤝🏽
 <!---
 alexalmacin/alexalmacin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
